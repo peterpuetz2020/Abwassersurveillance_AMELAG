@@ -2,5 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+.gitignore
 *.tsv
 Kontextmaterialien/Results/
